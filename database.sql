@@ -15,4 +15,4 @@ CREATE TABLE users (
 
 -- Insert some sample data into the 'users' table
 INSERT INTO users (name, email) VALUES ('Md. Rishad Chowdhury Fahad', 'fahad15-5483@diu.edu.bd');
-INSERT INTO users (name, email) VALUES ('Fahad', 'rcf1018@gmail.com');
+INSERT INTO users (name, email) VALUES ('Fahad', 'Rcf1018@gmail.com');
